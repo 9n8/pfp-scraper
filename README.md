@@ -1,1 +1,3 @@
-# pfp-scraper
+- discord pfp scraper 
+- scrapes channels
+- uses webhook & user
